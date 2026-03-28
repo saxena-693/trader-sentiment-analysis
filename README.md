@@ -150,9 +150,12 @@ trader-sentiment-analysis/
 - Must be combined with other indicators  
 
 ---
-## 📷 Sample Visualizations
-![Win Rate by Sentiment](plots/04_win_rate_by_sentiment.png)
+## 📷Sample Visualizations
+
+![Fear & Greed Overview](plots/01_fear_greed_overview.png)
 ![PnL Heatmap](plots/10_pnl_heatmap.png)
+![Timeline Overlay](plots/11_timeline_overlay.png)
+![Win Rate by Sentiment](plots/04_win_rate_by_sentiment.png)
 
 ---
 
