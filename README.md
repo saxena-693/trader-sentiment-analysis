@@ -57,6 +57,13 @@ But key questions remain:
   - Execution price
   - Buy/Sell side
   - Profit & Loss (PnL)
+ 
+| Dataset | Records | Range |
+|---|---|---|
+| Bitcoin Fear & Greed Index | 2,645 days | Feb 2018 – May 2025 |
+| Hyperliquid Trader Data | 211,224 trades | May 2023 – May 2025 |
+
+Merged on `date` → **211,218 sentiment-tagged trades**
 
 ### Data Integration
 Both datasets were merged on **date**, attaching sentiment to every trade.
@@ -123,15 +130,6 @@ trader-sentiment-analysis/
 ├── plots/
 └── README.md
 ```
----
-## 🔗Datasets
-| Dataset | Records | Range |
-|---|---|---|
-| Bitcoin Fear & Greed Index | 2,645 days | Feb 2018 – May 2025 |
-| Hyperliquid Trader Data | 211,224 trades | May 2023 – May 2025 |
-
-Merged on `date` → **211,218 sentiment-tagged trades**
-
 ---
 
 ## 📊Key Insights
