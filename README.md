@@ -102,12 +102,13 @@ Result:
 
 ## 🛠Tech Stack
 
-| Category        | Technology            |
-|----------------|----------------------|
-| Language       | Python               |
-| Analysis       | Pandas, NumPy        |
-| Visualization  | Matplotlib, Seaborn  |
-| Environment    | Jupyter Notebook     |
+| Category | Tools |
+|---|---|
+| Language | Python 3.12 |
+| Analysis | Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn |
+| Statistics | SciPy |
+| Environment | Jupyter Notebook |
 
 ---
 
@@ -123,7 +124,15 @@ trader-sentiment-analysis/
 └── README.md
 ```
 ---
+## 🔗Datasets
+| Dataset | Records | Range |
+|---|---|---|
+| Bitcoin Fear & Greed Index | 2,645 days | Feb 2018 – May 2025 |
+| Hyperliquid Trader Data | 211,224 trades | May 2023 – May 2025 |
 
+Merged on `date` → **211,218 sentiment-tagged trades**
+
+---
 
 ## 📊Key Insights
 
