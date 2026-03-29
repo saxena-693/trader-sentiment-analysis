@@ -3,10 +3,10 @@
 **An end-to-end data analytics project uncovering how crypto market sentiment influences real trader behavior and profitability.**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Domain-Data%20Analytics-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Domain-Data%20Analytics-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-Market%20Sentiment-pink?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data-On--Chain%20Trading-violet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tools-Python%20%2B%20Visualization-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tools-Python%20%2B%20Visualization-blue?style=for-the-badge"/>
 </p>
 
 <p align="center">
