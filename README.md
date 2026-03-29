@@ -209,6 +209,11 @@ Built a binary classifier to predict whether a trade will be profitable (`is_win
 ![Dashboard](Dashboard.png)
 
 ---
+## 📑 Project Playbook
+For a visual walkthrough of the full analysis, findings and strategy recommendations,
+view the [Project Playbook](TraderSentiment_Playbook.pptx)
+
+---
 
 ## 📈Behavioral Patterns Discovered
 
