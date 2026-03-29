@@ -178,7 +178,7 @@ Built a binary classifier to predict whether a trade will be profitable (`is_win
 | Model | Accuracy | ROC-AUC |
 |---|---|---|
 | Logistic Regression | 83.20% | 0.5838 |
-| **Random Forest** | **87.76%** | **0.8597** ✅ |
+| **Random Forest** | **87.76%** | **0.8597**  |
 
 **Top Features by Importance:**
 
